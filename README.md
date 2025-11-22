@@ -8,4 +8,7 @@ high-performance system bus.
 - The APB interface is “non-pipelined” means only one transaction happened at a time. The next read or 
 write cannot begin until the current transfer is completely finished. 
 - APB is simpler compared to AXI and AHB, supporting single cycle transfers with minimal power 
-consumption. 
+consumption.
+
+## Block Diagram
+![Block Diagram](https://github.com/itsmeAnshuman/AMBA-APB-Protocol/blob/main/Screenshot%202025-11-23%20000615.png)

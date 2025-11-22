@@ -2,7 +2,7 @@
 The APB protocol is a low-cost interface, optimized for low power consumption and reduced interface 
 complexity protocol used in AMBA. 
 
-#key features.
+# key features.
 - It is primarily designed for connecting low-speed peripherals such as timers, UARTs, and GPIOs to the 
 high-performance system bus. 
 - The APB interface is “non-pipelined” means only one transaction happened at a time. The next read or 
